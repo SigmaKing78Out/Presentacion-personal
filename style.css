@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: rgb(10, 60, 104);
+}
+h1, h2{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
